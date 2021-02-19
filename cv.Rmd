@@ -38,7 +38,6 @@ urlcolor: blue
 
 Research Support Specialist III \hfill 2014-present
 
-
   * Implementation and management of policy-relevant research related to agriculture, nutrition and climate.
   
   * Extensive experience evaluating scientific evidence on policy effectiveness and unintended consequences. Data collection, analysis and synthesis of existing information.
@@ -63,13 +62,24 @@ Graduate Research Assistant \hfill 2013-2014
 
 Evaluation Plan Designer \hfill 2013
 
+Program Evaluator \hfill 2010-2012
 
+# Other Professonal Experience
+
+Teaching Assistant \hfill 2013
+
+Women's Program Coordinator and Logistics Manager \hfill 2007-2008, 2010-2012
+
+Paralegal \hfill 2008
 
 # Publications
 
+
 ## Journal Articles
 
+
 ## Working Papers
+
 
 
 # Presentations
