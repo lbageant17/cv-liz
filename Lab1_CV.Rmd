@@ -1,0 +1,46 @@
+
+
+---
+title: Elizabeth R. Bageant
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{css, echo = FALSE}
+h1 {
+  text-align: center
+}
+
+```
+
+
+------------
+
+## Elizabeth Bageant
+
+------------
+<center>340J Warren Hall - Cornell University - Ithaca, New York</center> 
+
+<center>erb32@cornell.edu - skype: liz_bageant - [website](http://barrett.dyson.cornell.edu/research/group/liz-bageant.html) </center> 
+
+----------
+
+#### Education
+
++ M.S., Agricultural Economics, Cornell University, 2014
++ B.S., Development Sociology, Cornell University, 2010
+
+----------
+
+#### Current position
+**Research Support Specialist**, Charles H. Dyson School of Applied Economics and Management, Cornell University
+
++ Implementation and management of policy-relevant research related to agriculture, nutrition and climate.
++	Extensive experience evaluating scientific evidence on policy effectiveness and unintended consequences. Data collection, analysis and synthesis of existing information.
++	Proposal and budget development, project management, and communication for externally funded multi-lateral research and capacity development initiatives.
++	Authorship of published research outputs for academic and policy audiences
++	Intensive mentorship and training of early-career African Agricultural Economists
++	Statistical analysis of complex data. 
