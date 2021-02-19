@@ -1,0 +1,78 @@
+---
+output: stevetemplates::cv
+geometry: margin=1in
+
+title: "CV"
+author: Elizabeth R. Bageant
+
+jobtitle: "Research Support Specialist III"
+address: "Charles H Dyson School · Cornell University · Ithaca, New York"
+fontawesome: yes
+email: erb32@cornell.edu
+# github: svmiller
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+phone: "+= 540 398 7131"
+web: cornell.edu
+updated: no
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*Cornell University*, M.S. Agricultural Economics \hfill 2014
+
+*Cornell University*, B.S. Development Sociology \hfill 2010
+
+
+# Research Roles
+
+*Cornell University, Charles H. Dyson School of Applied Economics and Management*
+
+Research Support Specialist III \hfill 2014-present
+
+
+  * Implementation and management of policy-relevant research related to agriculture, nutrition and climate.
+  
+  * Extensive experience evaluating scientific evidence on policy effectiveness and unintended consequences. Data collection, analysis and synthesis of existing information.
+  
+  * Proposal and budget development, project management, and communication for externally funded multilateral research and capacity development initiatives
+  
+  *	Authorship of published research outputs for academic and policy audiences
+  
+  * Program management, intensive mentorship and training of early-career African Agricultural Economists as part of STAARS/STAAARS+ Fellowship Program.
+  
+  * Statistical analysis of complex data. 
+
+Graduate Research Assistant \hfill 2013-2014
+
+  * Designed and implemented mixed methods study of gender and uptake of Index-Based Livestock Insurance in Southern Ethiopian collaboration with the International Livestock Research Institute 
+  
+  * Assist with household panel survey question design, survey data collection, enumerator training and supervision.
+
+  * Econometric panel analysis of household panel data using Stata
+  
+  * Qualitative data collection and analysis designed to complement and deepen quantitative inference
+
+Evaluation Plan Designer \hfill 2013
+
+
+
+# Publications
+
+## Journal Articles
+
+## Working Papers
+
+
+# Presentations
+
+
+
